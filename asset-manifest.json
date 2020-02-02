@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react_sampe/static/css/main.f5618fc3.chunk.css",
+    "main.js": "/react_sampe/static/js/main.b08012c6.chunk.js",
+    "main.js.map": "/react_sampe/static/js/main.b08012c6.chunk.js.map",
+    "runtime-main.js": "/react_sampe/static/js/runtime-main.49d99785.js",
+    "runtime-main.js.map": "/react_sampe/static/js/runtime-main.49d99785.js.map",
+    "static/js/2.abca4018.chunk.js": "/react_sampe/static/js/2.abca4018.chunk.js",
+    "static/js/2.abca4018.chunk.js.map": "/react_sampe/static/js/2.abca4018.chunk.js.map",
+    "index.html": "/react_sampe/index.html",
+    "precache-manifest.30fe5537662d1c091f94529f14f81fea.js": "/react_sampe/precache-manifest.30fe5537662d1c091f94529f14f81fea.js",
+    "service-worker.js": "/react_sampe/service-worker.js",
+    "static/css/main.f5618fc3.chunk.css.map": "/react_sampe/static/css/main.f5618fc3.chunk.css.map",
+    "static/js/2.abca4018.chunk.js.LICENSE": "/react_sampe/static/js/2.abca4018.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49d99785.js",
+    "static/js/2.abca4018.chunk.js",
+    "static/css/main.f5618fc3.chunk.css",
+    "static/js/main.b08012c6.chunk.js"
+  ]
+}
