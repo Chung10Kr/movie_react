@@ -1,5 +1,5 @@
 {
-  "name": "movie_app",
+  "name": "movie_react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -35,5 +35,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage":"http://leechungryeol.github.io/react_sampe"
+  "homepage":"http://leechungryeol.github.io/movie_react"
 }
